@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    example
+   adding-an-existing-project-to-github-using-the-command-line
 
 
 Indices and tables
